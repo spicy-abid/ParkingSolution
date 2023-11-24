@@ -1,0 +1,89 @@
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\bin\Debug\ParkingSolution.exe.config
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\bin\Debug\ParkingSolution.exe
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\bin\Debug\ParkingSolution.pdb
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.csproj.AssemblyReference.cache
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.Register.resources
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.Properties.Resources.resources
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.csproj.GenerateResource.cache
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.csproj.CoreCompileInputs.cache
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.exe
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.pdb
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.form_LOGIN.resources
+C:\Users\88013\Desktop\C# Project\Project\ParkingSolution\obj\Debug\ParkingSolution.Clerk.resources
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\bin\Debug\ParkingSolution.exe.config
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\bin\Debug\ParkingSolution.exe
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\bin\Debug\ParkingSolution.pdb
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.csproj.AssemblyReference.cache
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.Clerk.resources
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.MetalDT.resources
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.form_LOGIN.resources
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.Register.resources
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.Properties.Resources.resources
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.csproj.GenerateResource.cache
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.csproj.CoreCompileInputs.cache
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.exe
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.pdb
+C:\Users\88013\Desktop\C# Project\New folder\ParkingSolution\obj\Debug\ParkingSolution.TokenChecker.resources
+C:\Users\88013\Desktop\ParkingSolution\bin\Debug\ParkingSolution.exe.config
+C:\Users\88013\Desktop\ParkingSolution\bin\Debug\ParkingSolution.exe
+C:\Users\88013\Desktop\ParkingSolution\bin\Debug\ParkingSolution.pdb
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.csproj.AssemblyReference.cache
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.Clerk.resources
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.form_LOGIN.resources
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.Register.resources
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.Properties.Resources.resources
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.csproj.GenerateResource.cache
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.csproj.CoreCompileInputs.cache
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.exe
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.pdb
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.Cleaner.resources
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.MetalDT.resources
+C:\Users\88013\Desktop\ParkingSolution\obj\Debug\ParkingSolution.TokenChecker.resources
+C:\Users\88013\Desktop\Final work\ParkingSolution\bin\Debug\ParkingSolution.exe.config
+C:\Users\88013\Desktop\Final work\ParkingSolution\bin\Debug\ParkingSolution.exe
+C:\Users\88013\Desktop\Final work\ParkingSolution\bin\Debug\ParkingSolution.pdb
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.csproj.AssemblyReference.cache
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.Register.resources
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.Properties.Resources.resources
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.csproj.GenerateResource.cache
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.csproj.CoreCompileInputs.cache
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.exe
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.pdb
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.Clerk_Form.resources
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.Cleaner_Form.resources
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.LOGIN_Form.resources
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.MetalDT_Form.resources
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.TokenChecker_Form.resources
+C:\Users\88013\Desktop\Final work\ParkingSolution\obj\Debug\ParkingSolution.Manager_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\bin\Debug\ParkingSolution.exe.config
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\bin\Debug\ParkingSolution.exe
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\bin\Debug\ParkingSolution.pdb
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.csproj.AssemblyReference.cache
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.Cleaner_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.Clerk_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.LOGIN_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.Manager_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.MetalDT_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.Register.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.Properties.Resources.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.TokenChecker_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.csproj.GenerateResource.cache
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.csproj.CoreCompileInputs.cache
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.exe
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\Final work\ParkingSolution\obj\Debug\ParkingSolution.pdb
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.csproj.AssemblyReference.cache
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.Cleaner_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.Clerk_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.LOGIN_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.Manager_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.MetalDT_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.Register.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.Properties.Resources.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.TokenChecker_Form.resources
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.csproj.GenerateResource.cache
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.csproj.CoreCompileInputs.cache
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.exe
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\obj\Debug\ParkingSolution.pdb
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\bin\Debug\ParkingSolution.exe.config
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\bin\Debug\ParkingSolution.exe
+S:\BOOKS\6 Semester\01312 - OBJECT ORIENTED PROGRAMMING 2 [D]\ParkingSolution\bin\Debug\ParkingSolution.pdb
