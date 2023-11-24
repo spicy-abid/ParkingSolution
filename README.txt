@@ -3,7 +3,7 @@ Welcome to Parking solution
 
 How to run the project
 	* This project is written in C# language using Visual Studio 2019
-	* This project Data Base created with Microsoft Sql Server Management 	 	  Studio.
+	* This project Data Base created with Microsoft Sql Server Management Studio.
 	* Here is the procedure How to setup the data base:
 		1. From the DB file select the two File name:
 						i)ParkingSolution.mdf
