@@ -11,6 +11,7 @@ How to run the project
 		2. Copy the selected two file and paste in this location:
 	C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA
 Note: If you have installed your MSSMS in local disk:C . Other wise find the Sql server then go to the Data location then paste this. after pasting please refresh the Data base studio. In Sh Allah It will work.
+Replace the connection string name with your own string name inside code where connection string belongs.
 
 Thank you so much.
 
